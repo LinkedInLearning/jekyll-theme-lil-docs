@@ -256,7 +256,7 @@ blockquote {
 .chrome\:sidebar {
   @extend .flex-col;
   @extend .order-none;
-  @extend .bg-grey-100;
+  // @extend .bg-grey-100;
   @extend .box-border;
   @extend .border-r;
   @extend .border-solid;
