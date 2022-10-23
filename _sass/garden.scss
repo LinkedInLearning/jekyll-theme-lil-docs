@@ -61,9 +61,9 @@ table {
   @extend .w-full;
 }
 
-tbody tr:nth-child(even) {
-  @extend .bg-grey-100;
-}
+// tbody tr:nth-child(even) {
+//   @extend .bg-grey-100;
+// }
 
 tr {
   @extend .border-t;
@@ -272,7 +272,7 @@ blockquote {
   @extend .order-1;
   @extend .overflow-auto;
   flex-basis: 0%;
-  padding: 28px;
+  padding: 22px;
 }
 
 .chrome\:footer {
