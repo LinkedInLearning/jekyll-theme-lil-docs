@@ -273,6 +273,7 @@ blockquote {
   @extend .overflow-auto;
   flex-basis: 0%;
   padding: 22px;
+  max-width: 46em;
 }
 
 .chrome\:footer {
